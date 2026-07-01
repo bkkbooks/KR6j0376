@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0376/F/v1
+canonical_location: https://kanripo.org/bkk/KR6j0376/F/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大隨求陀羅尼
+  identifiers:
+    krp: KR6j0376
+    cbeta: F27n1061
+    cbeta_old_id: F27n1061
+    authorityid: CA0008078
+    json_key: F1061
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F27/F27n1061.xml
+    old_id: F27n1061
+  edition:
+    short: F
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0376_000-F.yaml, hash: 'sha256:8f6cc726f1c08e4031068054d64a6825b7320c7a361fd355f5ed21be73325b71'}
+  - {seq: 1, filename: KR6j0376_001-F.yaml, hash: 'sha256:caaddf36c1427be7bb8541740fb39e9849f1ca3980a8ea7f5dd14e6857129d28'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0376_000-F.markers.yaml, hash: 'sha256:dadb57d538b75292333c032bb92de0daf995ca048a78311f8d45ce670fe523cb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0376_001-F.markers.yaml, hash: 'sha256:3603af07b7e38cdf7cdacd52c7746f32b9c9c6c49ec5dc617bece2f597ea8074'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0376_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 4518
+  label: 大隨求陁羅尼一卷　　　　　　　丁
+  type: juan
+  level: 1
+hash: sha256:9ca5a0e4292517fc09f972b2dfc8d5dc8bf306f2f1a285493a9a70a999d947c5

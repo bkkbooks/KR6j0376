@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0376/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大隨求陀羅尼
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F27/F27n1061.xml
+    old_id: F27n1061
+hash: sha256:8f6cc726f1c08e4031068054d64a6825b7320c7a361fd355f5ed21be73325b71
