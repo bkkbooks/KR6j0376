@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0376_000.yaml, hash: 'sha256:8f6cc726f1c08e4031068054d64a6825b7320c7a361fd355f5ed21be73325b71'}
-  - {seq: 1, filename: KR6j0376_001.yaml, hash: 'sha256:bbb99629062978650aad58d62c1e00805cfba739c646efaf9109498655c4a8f3'}
+  - {seq: 1, filename: KR6j0376_001.yaml, hash: 'sha256:caaddf36c1427be7bb8541740fb39e9849f1ca3980a8ea7f5dd14e6857129d28'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0376_001.markers.yaml, hash: 'sha256:3295cc6a41327bf08c52172dab9d31486d966fdf7b6c11ef4f30100995760990'}
+  - {seq: 0, role: markers, filename: assets/KR6j0376_000.markers.yaml, hash: 'sha256:865858782229fd57d6561a62314a0eb59d0da3ff857c2b8eaa9e60cb127d8f58'}
+  - {seq: 1, role: markers, filename: assets/KR6j0376_001.markers.yaml, hash: 'sha256:32c67880cdf5ec4ba112527fbc052805e9144742635910aefa6092aaa022600b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 大隨求陁羅尼一卷　　　　　　　丁
   type: juan
   level: 1
-hash: sha256:dd1c2050818e502e174d14bf21842461f0926ec560e260eafa80b5cbda8a82e7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:62f317738cb51baca80df98c8c0e5d109602b4279f4d8623eaf86da530edcd28
 editions:
 - short: F
