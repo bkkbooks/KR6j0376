@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0376/v1
 canonical_location: https://kanripo.org/bkk/KR6j0376/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大隨求陀羅尼
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0376_000.yaml, hash: 'sha256:8f6cc726f1c08e4031068054d64a6825b7320c7a361fd355f5ed21be73325b71'}
-  - {seq: 1, filename: KR6j0376_001.yaml, hash: 'sha256:caaddf36c1427be7bb8541740fb39e9849f1ca3980a8ea7f5dd14e6857129d28'}
+  - {seq: 1, filename: KR6j0376_001.yaml, hash: 'sha256:65912b35260e9041466806e8f36d61e6e83753ee243417a39f65c26c4889cbcb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0376_000.markers.yaml, hash: 'sha256:865858782229fd57d6561a62314a0eb59d0da3ff857c2b8eaa9e60cb127d8f58'}
-  - {seq: 1, role: markers, filename: assets/KR6j0376_001.markers.yaml, hash: 'sha256:32c67880cdf5ec4ba112527fbc052805e9144742635910aefa6092aaa022600b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0376_001.markers.yaml, hash: 'sha256:76cac3ecf37dcf1fb3923a3afa629264eb3147a962c0009dfbbc2fbbdbda5d27'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 大隨求陁羅尼一卷　　　　　　　丁
   type: juan
   level: 1
-hash: sha256:62f317738cb51baca80df98c8c0e5d109602b4279f4d8623eaf86da530edcd28
+hash: sha256:795460c77614b5ab3cd5d723a56616bb258fabaed672d990621bc8c9dce4e61b
 editions:
 - short: F
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
